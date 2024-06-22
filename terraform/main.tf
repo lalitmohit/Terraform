@@ -9,7 +9,4 @@ resource "aws_instance" "terraform" {
   
 }
 
-# AKIAVRUVR7322U2LV67B
-# uGlOV7AZHav+Nw5KZ3iUYVtlmwrdp8INj1sxjUMq
-# subnet-0e86ded01dafa890a
 
